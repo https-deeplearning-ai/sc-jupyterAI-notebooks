@@ -8,7 +8,7 @@ openai>=1.0.0
 python-dotenv>=1.0.0
 
 # Lesson 2
-aisuite>=0.1.0 
+aisuite>=0.1.0
 
 # Data Science & Visualization (Lessons 1 & 3)
 pandas>=2.0.0
