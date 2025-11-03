@@ -32,4 +32,4 @@ You can download the notebook of each exercise by clicking on **File** in the to
 
 In the course, you mainly interacted with Jupyternaut, the default AI Persona. In the current beta version, the AI persona does not come with any additional tools to read, edit, or search for files. These features are currently being developed and will make the default AI persona more powerful.
 
-You can also create your own custom AI persona to tailor the assistant's behavior to your specific needs and equip it with the tools you want. You can read more about AI personas <a href="https://jupyter-ai.readthedocs.io/en/v3/developers/entry_points_api/personas_group.html" target="_blank">here</a>
+You can also create your own custom AI persona to tailor the assistant's behavior to your specific needs and equip it with the tools you want. You can read more about AI personas <a href="https://jupyter-ai.readthedocs.io/en/v3/developers/entry_points_api/personas_group.html" target="_blank">here</a>.
