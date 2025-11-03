@@ -6,11 +6,13 @@ To set up  <a href="https://github.com/jupyterlab/jupyter-ai" target="_blank">Ju
 
 ## Installing Jupyter AI
 
-The course uses Jupyter AI v3 beta, as Jupyter AI v3 is not yet officially released. To install the beta version, run this command in your terminal:
+This course uses Jupyter AI v3 beta (3.0.0b7), as Jupyter AI v3 is not yet officially released. To install the beta version, run this command in your terminal:
 
-`pip install "jupyter-ai>=3.0.0b7,<3.1"`
+`pip install "jupyter-ai==3.0.0b7"`
 
 Once installation is complete, navigate to your working directory and launch JupyterLab by typing `jupyter lab`. You should now see the chat bubble in the left sidebar.
+
+Note: 3.0.0b8 beta version was released after the course was filmed. Feel free to explore the newest version as it has enhanced UI. 
 
 ## Setting Up the Model Provider in JupyterLab
 
